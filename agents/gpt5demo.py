@@ -1,11 +1,11 @@
 import os
 from openai import AzureOpenAI
 
-endpoint = "https://myfoundry007.cognitiveservices.azure.com/"
+endpoint = "https://test7.cognitiveservices.azure.com/"
 model_name = "gpt-5-chat"
 deployment = "gpt-5-chat"
 
-subscription_key = "dJj54yi2HhAC89Pjqxu6aP1HHswZbZR4uFAQNOLCAcWhxBCSJHJxJQQJ99CCACHYHv6XJ3w3AAAAACOG65RI"
+subscription_key = "key"
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(
