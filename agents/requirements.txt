@@ -1,0 +1,7 @@
+agent-framework
+agent-framework-foundry
+azure-ai-projects
+azure-identity
+mcp
+python-dotenv
+streamlit
