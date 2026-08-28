@@ -24,11 +24,11 @@ AGENT_ENDPOINT = os.getenv(
 )
 AGENT_IDENTITY = os.getenv(
     "IMMIGRATION_AGENT_IDENTITY",
-    "7e82f8bb-79be-4d13-905e-54a727565de0",
+    "7e8XXXXXa727565de0",
 )
 AGENT_BLUEPRINT = os.getenv(
     "IMMIGRATION_AGENT_BLUEPRINT",
-    "54afa59b-a84d-4d80-beeb-4573a3dd5600",
+    "54afXXXXXa3dd5600",
 )
 TOKEN_SCOPE = "https://ai.azure.com/.default"
 
