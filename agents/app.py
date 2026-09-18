@@ -1,5 +1,5 @@
 """
-Streamlit UI for the Travel Recommendation Agent.
+Streamlit UI for the Travel Recommendation Agent
 
 Run with:
     streamlit run app.py
